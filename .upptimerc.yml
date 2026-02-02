@@ -1,7 +1,6 @@
 owner: zerlio
 repo: zerlio-status
 
-
 sites:
   - name: App (Web)
     url: https://app.zerlio.com/
